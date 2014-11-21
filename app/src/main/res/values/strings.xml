@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Creamfields</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_detail_title">DetailActivity</string>
+
+    <string name="drawer_switch">SwitchSample</string>
+    <string name="drawer_opensource">Open Source</string>
+
+
+    <string name="dialog_nointernet">No internet connection!</string>
+    <string name="dialog_uploading">Uploading&#8230;</string>
+    <string name="dialog_processinganduploading">Processing and uploading your applications. Please be patient!</string>
+
+    <string-array name="artistas">
+        <item>David Guetta</item>
+        <item>Martin Garrix</item>
+        <item>Dimitri Vegas &amp; Like Mike</item>
+        <item>Hercules &amp; Love Affair</item>
+        <item>Franco Cinelli &amp; Deep Mariano</item>
+        <item>Silver City</item>
+        <item>Leandro Fresco &amp; Gustavo Lamas</item>
+        <item>Catnapp</item>
+        <item>Rama</item>
+        <item>Deep Dish</item>
+        <item>Solomun</item>
+        <item>Tale of Us</item>
+        <item>The Martinez Brothers</item>
+        <item>Hernan Cattaneo</item>
+        <item>Felipe Venegas</item>
+        <item>Deep Mariano</item>
+        <item>Guille Quero</item>
+        <item>Arty</item>
+        <item>Fedde Le Grand</item>
+        <item>Tommy Trash</item>
+        <item>R3HAB</item>
+        <item>Otto Knows</item>
+        <item>Zuker</item>
+        <item>Facu Carri</item>
+        <item>Jay West</item>
+        <item>HIIO</item>
+        <item>Santiago Martinez</item>
+        <item>Richie Hawtin</item>
+        <item>Gaiser</item>
+        <item>Maetrik</item>
+        <item>Maya Jane Coles</item>
+        <item>Dubfire</item>
+        <item>Barem</item>
+        <item>Franco Cinelli</item>
+        <item>Brian Gros</item>
+        <item>Miguel Silver</item>
+        <item>Jorge Savoretti</item>
+        <item>Mathias Kaden</item>
+        <item>Sven Vath</item>
+        <item>Art Department</item>
+        <item>Guy Gerber</item>
+        <item>Ilario Alicante</item>
+        <item>Julian Jeweil</item>
+        <item>Ernesto Ferreyra</item>
+        <item>Luis Nieva</item>
+        <item>Londonground</item>
+    </string-array>
+</resources>
